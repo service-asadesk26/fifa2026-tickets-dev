@@ -58,8 +58,9 @@ Quando este epic fechar, **EPIC-001 (parked)** pode ser ativado para roteirizar 
 | S6 | 0.6 | [Atualizar 48 seleções classificadas](../stories/0.6.story.md) | ✅ Done | 40 min |
 | S7 | 0.7 | [Tabela da Copa (interativa)](../stories/0.7.story.md) | ✅ Done | 120 min |
 | S8 | 0.8 | [Bracket de mata-mata interativo](../stories/0.8.story.md) | ✅ Done | 180 min |
+| S9 | 0.9 | [16 estádios oficiais FIFA 2026](../stories/0.9.story.md) | ✅ Done | 30 min |
 
-> Total estimado: ~300 min. Stories 0.1-0.4 fecharam o escopo principal; 0.5 resolve tech debts do QA gate; 0.6 atualiza dados das seleções para o estado oficial pós-Final Draw FIFA (2025-12-05); 0.7 adiciona feature interativa de tabela alimentada por resultados do admin.
+> Total estimado: ~330 min. Stories 0.1-0.4 fecharam o escopo principal; 0.5 resolve tech debts do QA gate; 0.6 atualiza dados das seleções para o estado oficial pós-Final Draw FIFA (2025-12-05); 0.7 adiciona feature interativa de tabela alimentada por resultados do admin; 0.8 adiciona bracket interativo de mata-mata; 0.9 atualiza para os 16 estádios oficiais FIFA 2026 com imagens reais.
 
 ## Success criteria
 
